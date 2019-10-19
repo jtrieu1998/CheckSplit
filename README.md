@@ -1,0 +1,2 @@
+# CheckSplit
+Split check proportionally
